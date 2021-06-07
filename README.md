@@ -1,3 +1,7 @@
+eslint works with
+ eslint@7.28.0
++-- eslint-plugin-react@7.24.0
+installed -g
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
